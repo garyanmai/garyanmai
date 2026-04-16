@@ -1,18 +1,14 @@
-## Hello, I'm Carmen!
----
+## ⟢ Hello, I'm Carmen! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79DD0&width=435&lines=Data+%2B+Product+%2B+Marketing;Brand+Obssessed.)](https://git.io/typing-svg)
-
-I’m a 🎯 **data-driven**, product-minded builder with experience across **marketing, data analytics, and user experience**, interested in shaping products that are both technically sound and deeply user-focused.
+I’m a **data-driven**, product-minded builder with experience across **marketing, data analytics, and user experience**, interested in shaping products that are both technically sound and deeply user-focused.
 
 Currently focused on **Product Management and Product Marketing**, where I can combine:
 - data-driven decision making  
 - user insights  
 - and end-to-end product thinking  
 
----
-
-## 🚀 What I’ve Done
+## ⟢ What I’ve Done
 
 ### 📊 Data + Product
 - Built a machine learning image classifier trained on **40K+ data points**, contributing to both model development and front-end experience 
@@ -24,8 +20,6 @@ Currently focused on **Product Management and Product Marketing**, where I can c
 - Led a **6-week UI/UX audit**, conducting usability tests and delivering product recommendations  
 - Supported **product launches**, A/B testing, and analytics tracking using tools like Heap.io and Google Analytics  
 
----
-
 ## 🧠 How I Think About Products
 
 - How data informs product and marketing decisions  
@@ -33,8 +27,6 @@ Currently focused on **Product Management and Product Marketing**, where I can c
 - How strong branding influences perception and engagement  
 - How to validate ideas quickly through testing and iteration  
 - Bridging technical teams and business stakeholders  
-
----
 
 ## 📌 What You’ll Find Here
 
@@ -49,10 +41,11 @@ Focused on building products that are:
 
 ---
 
-## 🤝 Let’s Connect
+## ⟢ Let’s Connect
 
 I’m always open to:
 - product conversations  
 - feedback on my work  
-- collaboration opportunities  
+- collaboration opportunities
+  
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23F79DD0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garyanmai/)
