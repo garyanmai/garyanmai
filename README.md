@@ -1,6 +1,7 @@
 ## ⟢ Hello, I'm Carmen! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79DD0&width=435&lines=Data+%2B+Product+%2B+Marketing;Brand+Obssessed.)](https://git.io/typing-svg)
+
 I’m a **data-driven**, product-minded builder with experience across **marketing, data analytics, and user experience**, interested in shaping products that are both technically sound and deeply user-focused.
 
 Currently focused on **Product Management and Product Marketing**, where I can combine:
