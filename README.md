@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79DD0&width=435&lines=Data+%2B+Product+%2B+Marketing;Brand+Obssessed.)](https://git.io/typing-svg)
 
-I’m a 🎯 **brand-obsessed**, product-minded builder with experience across **marketing, data, and user experience** — interested in shaping products that are both technically sound and deeply user-focused.
+I’m a 🎯 **data-driven**, product-minded builder with experience across **marketing, data analytics, and user experience**, interested in shaping products that are both technically sound and deeply user-focused.
 
 Currently focused on **Product Management and Product Marketing**, where I can combine:
 - data-driven decision making  
@@ -55,15 +55,4 @@ I’m always open to:
 - product conversations  
 - feedback on my work  
 - collaboration opportunities  
-<a href="https://www.linkedin.com/in/garyanmai/" target="_blank" style="
-  background-color:#F79DD0FF;
-  color:white;
-  padding:10px 20px;
-  text-decoration:none;
-  font-weight:bold;
-  text-transform:uppercase;
-  border-radius:6px;
-  display:inline-block;
-">
-  LINKEDIN
-</a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23F79DD0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garyanmai/)
